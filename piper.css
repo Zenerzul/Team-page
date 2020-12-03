@@ -1,0 +1,170 @@
+body {
+  font-family: Roboto, sans-serif;
+  margin-right: 0px;
+}
+section {
+  width: 100%;
+}
+section .block {
+  font-size: 32px;
+  line-height: 37px;
+  font-weight: normal;
+}
+.container {
+  width: 1219px;
+  margin: 0px auto;
+  padding: 0px 55px;
+}
+.container h2 {
+  text-align: center;
+  font-size: 64px;
+  line-height: 75px;
+  font-weight: 500;
+  color: #007765;
+  padding-bottom: 15px;
+}
+h2 a {
+  color: #007765;
+  text-decoration: none;
+}
+
+.header_main {
+  background-color: #007765;
+  padding: 10px 0px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.main_container {
+  max-width: 1219px;
+  margin: 0px auto;
+}
+.logo_first {
+  float: left;
+}
+.main_menu {
+  float: right;
+  padding: 28px auto;
+}
+.main_menu li {
+  display: inline;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+.main_menu a {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.section_first {
+  margin: 0px;
+  padding: 1px;
+  background: url(/pipernetishere.png) center no-repeat;
+  background-size: cover;
+  /* margin-top: 160px; */
+  padding-bottom: 160px;
+}
+.section_first .container {
+  margin: 160px auto 0px;
+  padding-top: 50px;
+}
+.section_first h1 {
+  text-align: center;
+  font-size: 72px;
+  color: #ffffff;
+}
+
+.section_second {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #eeeeee;
+  background-size: cover;
+}
+
+.section_third {
+  background: url(/bg2.png) no-repeat center;
+  background-size: cover;
+  padding: 160px 0px;
+}
+.section_third h4 {
+  margin: auto;
+  font-family: Roboto, sans-serif;
+  font-style: italic;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 56px;
+  color: #ffffff;
+}
+
+.section_fourth h2 {
+  padding-top: 40px;
+}
+.section_fourth .row {
+  display: inline-block;
+}
+.logo_fourth {
+  float: left;
+  clear: left;
+}
+
+.section_fourth > .block {
+  float: none;
+}
+
+.section_fifth {
+  padding-top: 10px;
+  background-color: #eeeeee;
+  background-size: cover;
+}
+.section_fifth h5 {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: bold;
+  color: #007765;
+  margin: 5px auto 10px;
+}
+.section_fifth h6 {
+  font-size: 18px;
+  line-height: 21px;
+  font-style: italic;
+  font-weight: normal;
+  color: #000000;
+  margin: 0px auto 70px;
+  padding: 0px auto;
+}
+.row {
+  margin-left: auto;
+  margin-right: auto;
+}
+.col-1-3 {
+  display: inline-block;
+  padding: 0px 105px;
+  text-align: center;
+}
+
+footer {
+  background-color: #333333;
+  background-size: cover;
+  padding: 50px 0px 62px;
+}
+footer .container_last {
+  margin-left: auto;
+  margin-right: auto;
+  width: 540px;
+}
+footer .container_last p {
+  font-size: 18px;
+  line-height: 21px;
+  font-style: normal;
+  color: #ffffff;
+  text-align: center;
+}
